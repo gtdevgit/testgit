@@ -12,3 +12,11 @@ encore un ajout
  (@ @)
    ^
    o
+
+  |||
+  o o
+   v
+  (O)
+  | |
+  ^ ^
+   
