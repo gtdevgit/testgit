@@ -1,22 +1,5 @@
-nouveau contenu du fichier.
-ajoute d'une ligne.
-ajout d'une ligne avec Octave.
-encore un ajout
-
-   |||
-  @   @
-    ^
-    =
-
-  |||
- (@ @)
-   ^
-   o
-
-  |||
-  o o
-   v
-  (O)
-  | |
-  ^ ^
-   
+             ^_^ 
+    _____ /// oo\
+ . (         )\..\
+ "  (  ____  ) ---
+     ||    ||    
