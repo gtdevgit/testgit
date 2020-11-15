@@ -1,6 +1,6 @@
 # Zone de test GT
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
+[!Maintenance(https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
 [![Android](https://img.shields.io/badge/Dev-Android-success)]
 [![Android Studio](https://img.shields.io/badge/Android-Studio-blue)]
 
