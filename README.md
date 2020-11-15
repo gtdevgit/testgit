@@ -6,5 +6,5 @@
 ## Titre 2
 
 
-_emphase
-__emphase en gras
+_emphase_
+__emphase en gras__
