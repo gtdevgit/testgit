@@ -1,6 +1,6 @@
 # Zone de test GT
 
-[Android](https://img.shields.io/badge/Android-Studio-blue)
+[![Android](https://img.shields.io/badge/Android-Studio-blue)]
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
