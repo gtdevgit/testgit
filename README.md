@@ -16,11 +16,10 @@ __emphase en gras__
 ***
 
 ![Android](https://img.shields.io/badge/Android-Studio-blue)
-# P3
+# P3 Développez une nouvelle fonctionnalité pour l'application Entrevoisins et testez-la.
 ***
-Développez une nouvelle fonctionnalité pour l'application Entrevoisins et testez-la.
-***
-Les sources de l'application sont dans le répertoire /Android/Entrevoisins
-***
-Le projet est développé en java avec Android Studio
+Les sources de l'application sont dans le répertoire __/Android/Entrevoisins__.
+
+Le projet est développé en java avec __Android Studio__.
+
 Pour télécharger Android studio : <https://developer.android.com/studio>
