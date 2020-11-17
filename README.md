@@ -27,7 +27,7 @@ Le projet est développé en __java__ avec __Android Studio__.
 
 Pour télécharger __Android studio__ : <https://developer.android.com/studio>
 
-## Struture générale du projet
+## Structure générale du projet
 ...
 
 ## Les tests unitaires
