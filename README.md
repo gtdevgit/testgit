@@ -22,7 +22,9 @@ Le projet __Entrevoisins__ est une application qui permet de mettre en relation 
 Cette application appartient à l'entreprise du même nom __Entrevoisins__.
 
 Les sources de l'application sont dans le répertoire __/Android/Entrevoisins__.
+
 Le projet est développé en __java__ avec __Android Studio__.
+
 Pour télécharger __Android studio__ : <https://developer.android.com/studio>
 
 ## Struture générale du projet
