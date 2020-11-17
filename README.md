@@ -23,3 +23,10 @@ Les sources de l'application sont dans le répertoire __/Android/Entrevoisins__.
 Le projet est développé en java avec __Android Studio__.
 
 Pour télécharger Android studio : <https://developer.android.com/studio>
+***
+## Struture générale du projet
+...
+## Les tests unitaires
+...
+## Les test instumentalisés
+...
