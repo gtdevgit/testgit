@@ -23,4 +23,4 @@ Développez une nouvelle fonctionnalité pour l'application Entrevoisins et test
 Les sources de l'application sont dans le répertoire /Android/Entrevoisins
 ***
 Le projet est développé en java avec Android Studio
-Pour télécharger ![__Android studio__](https://https://developer.android.com/studio)
+Pour télécharger Android studio : <https://https://developer.android.com/studio>
