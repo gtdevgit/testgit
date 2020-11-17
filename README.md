@@ -16,17 +16,22 @@ __emphase en gras__
 ***
 
 ![Android](https://img.shields.io/badge/Android-Studio-blue)
-# P3 Développez une nouvelle fonctionnalité pour l'application Entrevoisins et testez-la.
-***
+# Projet Entrevoisins
+## Présentation 
+Le projet __Entrevoisins__ est une application qui permet de mettre en relation des personnes d'un même quartier afin qu'ils se rendent de petits services.
+Cette application appartient à l'entreprise du même nom __Entrevoisins__.
+
 Les sources de l'application sont dans le répertoire __/Android/Entrevoisins__.
 
 Le projet est développé en java avec __Android Studio__.
 
 Pour télécharger Android studio : <https://developer.android.com/studio>
-***
+
 ## Struture générale du projet
 ...
+
 ## Les tests unitaires
 ...
+
 ## Les test instumentalisés
 ...
